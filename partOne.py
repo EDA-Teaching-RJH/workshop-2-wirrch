@@ -4,5 +4,6 @@ def main():
 
 def replace(text):
   #Your code goes here.
+  print(text.replace(" ", "."))
 
 main()
